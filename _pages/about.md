@@ -11,7 +11,7 @@ redirect_from:
  I'm a first-year undergraduate student from [Whiting School of Engineering](https://engineering.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/)，and Option / Concentration: Human Language Technology
  
  Prior to JHU, I had completed an undergraduate comprehensive program in Mathematic，information and Computing Science at 
- [Liaoning Technical University](http://lxy.lntu.edu.cn/)， and graduated.And I received my Bachelor's Degree in information and Computing Science at Liaoning Technical University from China.During my undergraduate study, I studied and worked at the Institute of Mathematics and Systems Science and Institute of Machine Learning and Data Mining for four years, and served as the team leader of the Math819 College Student Competition，where I received the joint guidance from  [Wei Liu]((http://lxy.lntu.edu.cn/info/1068/2235.htm)/)， [Fan hui Zeng](http://lxy.lntu.edu.cn/info/1068/2232.htm)and[Yu Zhang](http://lxy.lntu.edu.cn/info/1068/2242.htm)，
+ [Liaoning Technical University](http://lxy.lntu.edu.cn/)， and graduated.And I received my Bachelor's Degree in information and Computing Science at Liaoning Technical University from China.During my undergraduate study, I studied and worked at the Institute of Mathematics and Systems Science and Institute of Machine Learning and Data Mining for four years, and served as the team leader of the Math819 College Student Competition，where I received the joint guidance from  [Wei Liu](http://lxy.lntu.edu.cn/info/1068/2235.htm)， [Fan hui Zeng](http://lxy.lntu.edu.cn/info/1068/2232.htm)and[Yu Zhang](http://lxy.lntu.edu.cn/info/1068/2242.htm)，
 
 
 
