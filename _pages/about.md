@@ -1,6 +1,9 @@
 ---
 permalink: /
-title: "Haonan Wang's personal website"
+title: "Haonan Wang's personal website
+
+
+About me and thanks for watching my personal website, welcome to visit!"
 excerpt: "About me and thanks for watching my personal website, welcome to visit!"
 author_profile: true
 redirect_from: 
