@@ -17,16 +17,3 @@ Scientific Journal of Intelligent Systems Research (2664-9640),Volume 4 Issue 6 
 
 ## China software development copyright
 
-
-
-
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
