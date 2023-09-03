@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Haonan Wang's Homepage"
 title_separator          : "-"
 name                     : &name "Haonan Wang"
 description              : &description "a MSE student at Johns Hopkins University"
-url                      : https://haonan-wang628.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://haonan-wang628.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "haonan-wang628.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,13 +82,10 @@ analytics:
 author:
   name             : "Haonan Wang"
   avatar           : "wanghaonan.JPG"
-  bio              : "👋 Hi, I’m haonan wang ，MSE student at jhu
-  👀 I’m interested in Computer science,Artificial Intelligence
-  🌱 I’m currently learning Natural Language Processing,Computer Vision,
-  💞️ I’m looking to collaborate on Artificial Intelligence's friend"
+  bio              : "👋 Hi, I’m haonan wang ，a MSE student at jhu,👀 I’m interested in Computer science,Artificial Intelligence,🌱 I’m currently learning Natural Language Processing,Computer Vision,💞️ I’m looking to collaborate on Artificial Intelligence's friend"
   location         : "Baltimore,Maryland,USA"
   employer         :
-  pubmed           : #"https://haonan-wang628.github.io/"
+  pubmed           : 
   googlescholar    : 
   email            : "haonan5411@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -99,8 +96,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/haonan-wang628"
-  csdn        : "https://blog.csdn.net/weixin_46401001?spm=1000.2115.3001.5343"
+  github           : "haonan-wang628"
+  csdn             : "https://blog.csdn.net/weixin_46401001?spm=1000.2115.3001.5343"
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
@@ -112,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
