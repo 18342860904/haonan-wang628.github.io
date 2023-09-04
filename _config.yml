@@ -14,6 +14,7 @@ description              : &description "a MSE student at Johns Hopkins Universi
 url                      : "https://haonan-wang628.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "haonan-wang628.github.io"
+csdn                     : "https://blog.csdn.net/weixin_46401001?spm=1000.2115.3001.5343"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
