@@ -20,9 +20,9 @@ Master in Computer Science<br>
 **2019-2023**<br>
 B.S. in Information and Computing Science<br>
 [Liaoning Technology University](https://www.lntu.edu.cn),FuXin,Liaoning,China<br>
-*Advisor: [Prof. Wei liu](http://lxy.lntu.edu.cn/info/1068/2235.htm)*
-*Advisor: [Prof. Fanhui Zeng](http://lxy.lntu.edu.cn/info/1068/2232.htm)*
-*Advisor: [Prof. Yu Zhang](http://lxy.lntu.edu.cn/info/1068/2242.htm)*
+*Advisor1: [Prof. Wei liu](http://lxy.lntu.edu.cn/info/1068/2235.htm)*
+*Advisor2: [Prof. Fanhui Zeng](http://lxy.lntu.edu.cn/info/1068/2232.htm)*
+*Advisor3: [Prof. Yu Zhang](http://lxy.lntu.edu.cn/info/1068/2242.htm)*
 
 Research experience
 ======
