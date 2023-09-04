@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Haonan Wang"
   avatar           : "wanghaonan.JPG"
-  bio              : "👋 Hi, I’m haonan wang ，a MSE student at jhu,👀 I’m interested in Computer science,Artificial Intelligence,🌱 I’m currently learning Natural Language Processing,Computer Vision,💞️ I’m looking to collaborate on Artificial Intelligence's friend"
+  bio              : "👋 Hi, I’m haonan wang ，aa MSE student at Johns Hopkins University"
   location         : "Baltimore,Maryland,USA"
   employer         :
   pubmed           : 
@@ -104,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  googlescholar    : "https://blog.csdn.net/weixin_46401001?spm=1000.2115.3001.5343"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
