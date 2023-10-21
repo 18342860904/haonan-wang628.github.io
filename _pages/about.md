@@ -24,19 +24,17 @@ Current Research
 ======
 My Research interest is in Multimodal models and Natural Language Processing， and their applications to Computational Medicine and Computational Sociology. I've been exploring how to accurately integrate text data with other data patterns (such as images, sounds, etc.) to build predictive models that are both robust and accurate.
 In particular:
+
 **1. Integration of multimodal large model and natural language processing:**
 Cross-modal representation learning: I work on how to get joint representations of text and other patterns (e.g. images, sounds) through deep learning techniques such as Transformers and deep autoencoders. Multimodal sentiment analysis: Capture and understand user emotions and emotions more accurately by combining modal data such as text, voice, and facial expressions. Multimodal knowledge graph construction: Combining text description with visual, audio, and other modal information to build a more rich and robust knowledge graph.
 
 **2. Combination of computational medicine and multimodal data:**
-In the medical field, the combination of text data and other medical data opens up new possibilities for medical decision-making and medical diagnosis. My research focuses include:
-Natural language processing of medical records: Extract critical information to optimize the diagnosis and treatment process through in-depth analysis of medical records, doctor's notes, and patient statements.
-Establishment of predictive model: Using text data combined with other medical data (such as medical images, and biochemical test results), combined with patients' daily records, medical records and other physiological data, to build an early prediction and diagnosis model, aiming to detect and manage potential health risks in advance.
+ My research focuses include: Natural language processing of medical records: Extract critical information to optimize the diagnosis and treatment process through in-depth analysis of medical records, doctor's notes, and patient statements. Establishment of predictive model: Using text data combined with other medical data (such as medical images, and biochemical test results), combined with patients' daily records, medical records, and other physiological data, to build an early prediction and diagnosis model, aiming to detect and manage potential health risks in advance.
 Construction of medical knowledge graph: Combining natural language processing technology to extract and integrate knowledge from medical literature and clinical data to provide doctors and patients with richer and more accurate medical information.
 
 **3. Cross-research between artificial intelligence and sociology:**
 With the popularization of artificial intelligence technology, its socio-cultural, economic, and ethical implications are becoming more and more obvious. My research in this area focuses on:
-Algorithmic Bias and Fairness: Through an in-depth look at algorithmic decision-making processes, I explore the biases that can arise when algorithms process sociocultural data, and how this bias can be reduced or eliminated through technical means or policy adjustments.
-The interaction between technology and society: AI not only affects society but society's feedback and demand for it will, in turn, affect the direction of technology development. I explore this interaction and what it means for future technological and social relationships. From city management to public policy-making, I examine how AI can aid or influence these decision-making processes, as well as the potential risks and opportunities.
+Algorithmic Bias and Fairness: Through an in-depth look at algorithmic decision-making processes, I explore the biases that can arise when algorithms process sociocultural data, and how this bias can be reduced or eliminated through technical means or policy adjustments.The interaction between technology and society: AI not only affects society but society's feedback and demand for it will, in turn, affect the direction of technology development. I explore this interaction and what it means for future technological and social relationships. From city management to public policy-making, I examine how AI can aid or influence these decision-making processes, as well as the potential risks and opportunities.
 
 Past Research Direction
 ======
