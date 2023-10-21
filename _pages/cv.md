@@ -11,7 +11,7 @@ a.uline {text-decoration:underline;}
 </style>
 {% include base_path %}
 
-
+<a href="../files/Haonan Wang_cv.pdf" class="uline">Click here for a full pdf copy of my CV</a>
 
 
 Education
