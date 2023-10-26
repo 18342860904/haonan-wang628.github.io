@@ -23,7 +23,7 @@ Fuzzy Sets**.\
 [pdf](https://pan.baidu.com/disk/pdfview?path=%2Fwww.paper.edu.cn%2FResearch%20o
 n%20Ecommerce%20Customer%20Satisfaction%20Based%20on%20Two%20Type
 %20Fuzzy%20Sets.pdf&fsid=318302379438915&size=451188)
-  - **Research on triangle pattern recognition based on Fuzzy
+- **Research on triangle pattern recognition based on Fuzzy
 Mathematics,**.\
 [pdf](https://pan.baidu.com/disk/pdfview?path=%2Fwww.paper.edu.cn%2FResearch%20o
 n%20triangle%20pattern%20recognition%20based%20on%20Fuzzy%20Mathematic
