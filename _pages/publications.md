@@ -32,25 +32,25 @@ s.pdf&fsid=788031712311982&size=412945)
 
 ## China software development copyright
 - **[1] Haonan, Wang, Mingjia, Zhao, Chang, Liu “Artificial intelligence robot programming
-interactive control system,” PRC Software Copyright Patent, No. 2022SR1053901.**\
+interactive control system,” PRC Software Copyright Patent, No. 2022SR1053901.**
 - **[2] Haonan, Wang, Junfeng, Sun, Xin, Yu “Image recognition processing operation
-platform,” PRC Software Copyright Patent, No. 2022SR1052419.**\
+platform,” PRC Software Copyright Patent, No. 2022SR1052419.**
 - **[3] Haonan, Wang, Chang, Liu, Mingjia, Zhao, “Artificial Intelligence Community Security
-Equipment Monitoring System,” PRC Software Copyright Patent, No. 2022SR1052492.**\
+Equipment Monitoring System,” PRC Software Copyright Patent, No. 2022SR1052492.**
 - **[4] Haonan, Wang, Meng, Liu, Mingjia, Zhao, “A network behavior analysis system based
-on machine learning,” PRC Software Copyright Patent, No. 2022SR1049807.**\
+on machine learning,” PRC Software Copyright Patent, No. 2022SR1049807.**
 - **[5] Haonan, Wang, Chi, Li, Meng, Liu, “Autonomous Driving Intelligent Dispatching
-Center Management System,” PRC Software Copyright Patent, No. 2022SR1052526.**\
+Center Management System,” PRC Software Copyright Patent, No. 2022SR1052526.**
 - **[6] Haonan, Wang, Ruiyang, Wang, Mingjia, Zhao, “Unmanned shortest path planning
-system,” PRC Software Copyright Patent, No. 2022SR0935020.**\
+system,” PRC Software Copyright Patent, No. 2022SR0935020.**
 - **[7] Haonan, Wang, Xin, Yu, Junfeng, Sun, “Data operation analysis and collection system
-based on machine learning,” PRC Software Copyright Patent, No. 2022SR1052428.**\
+based on machine learning,” PRC Software Copyright Patent, No. 2022SR1052428.**
 - **[8] Jiawei, Zhang, Pengyu, Cai, Haonan Wang, Kai Lv, Qi Wei, “Staff check-in face
-recognition system,” PRC Software Copyright Patent, No. 2021SR0699354.**\
+recognition system,” PRC Software Copyright Patent, No. 2021SR0699354.**
 - **[9] Ruoying, Huang, Yiqiang,Xia, Xia,Xu, Haonan,Wang,Mingjia,Zhao,“Motion detection
-system based on Artificial Intelligence”PRC Software Copyright Patent，No.2023R11L1294610.**\
+system based on Artificial Intelligence”PRC Software Copyright Patent，No.2023R11L1294610.**
 - **[10] Ruoying, Huang, Yiqiang,Xia, Xia,Xu, Haonan,Wang,Mingjia,Zhao,“Motion detection
-system based on Artificial Intelligence”PRC Software Copyright Patent，No.2023R11L1294610.**\
+system based on Artificial Intelligence”PRC Software Copyright Patent，No.2023R11L1294610.**
 
 
 
