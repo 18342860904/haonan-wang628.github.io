@@ -28,21 +28,21 @@ Mathematics,**.\
 
 ## China software development copyright
 - **[1] Haonan, Wang, Mingjia, Zhao, Chang, Liu “Artificial intelligence robot programming
-interactive control system,” PRC Software Copyright Patent, No. 2022SR1053901.** <a href="../files/3.人工智能机器人编程交互控制系统.pdf" class="uline">Click here for a full pdf of this system </a>
+interactive control system,” PRC Software Copyright Patent, No. 2022SR1053901.** <a href="../files/3.人工智能机器人编程交互控制系统.pdf" class="uline">pdf</a>
 - **[2] Haonan, Wang, Junfeng, Sun, Xin, Yu “Image recognition processing operation
-platform,” PRC Software Copyright Patent, No. 2022SR1052419.**
+platform,” PRC Software Copyright Patent, No. 2022SR1052419.** <a href="../files/5.图像识别处理操作平台.pdf" class="uline">pdf </a>
 - **[3] Haonan, Wang, Chang, Liu, Mingjia, Zhao, “Artificial Intelligence Community Security
-Equipment Monitoring System,” PRC Software Copyright Patent, No. 2022SR1052492.**
+Equipment Monitoring System,” PRC Software Copyright Patent, No. 2022SR1052492.** <a href="../files/4.人工智能社区安全装备监控系统.pdf" class="uline">pdf</a>
 - **[4] Haonan, Wang, Meng, Liu, Mingjia, Zhao, “A network behavior analysis system based
-on machine learning,” PRC Software Copyright Patent, No. 2022SR1049807.**
+on machine learning,” PRC Software Copyright Patent, No. 2022SR1049807.** <a href="../files/2.基于机器学习的网络行为分析系统.pdf" class="uline">pdf</a>
 - **[5] Haonan, Wang, Chi, Li, Meng, Liu, “Autonomous Driving Intelligent Dispatching
-Center Management System,” PRC Software Copyright Patent, No. 2022SR1052526.**
+Center Management System,” PRC Software Copyright Patent, No. 2022SR1052526.** <a href="../files/6.自动驾驶智能调度中心管理系统.pdf" class="uline">pdf</a>
 - **[6] Haonan, Wang, Ruiyang, Wang, Mingjia, Zhao, “Unmanned shortest path planning
-system,” PRC Software Copyright Patent, No. 2022SR0935020.**
+system,” PRC Software Copyright Patent, No. 2022SR0935020.** <a href="../files/7.无人驾驶最短路径规划系统.pdf" class="uline">pdf</a>
 - **[7] Haonan, Wang, Xin, Yu, Junfeng, Sun, “Data operation analysis and collection system
-based on machine learning,” PRC Software Copyright Patent, No. 2022SR1052428.**
+based on machine learning,” PRC Software Copyright Patent, No. 2022SR1052428.** <a href="../files/1.基于机器学习的数据分析运营采集系统.pdf" class="uline">pdf</a>
 - **[8] Jiawei, Zhang, Pengyu, Cai, Haonan Wang, Kai Lv, Qi Wei, “Staff check-in face
-recognition system,” PRC Software Copyright Patent, No. 2021SR0699354.**
+recognition system,” PRC Software Copyright Patent, No. 2021SR0699354.** <a href="../files/8.职工签到人脸识别系统.pdf" class="uline">pdf</a>
 - **[9] Ruoying, Huang, Yiqiang,Xia, Xia,Xu, Haonan,Wang,Mingjia,Zhao,“Motion detection
 system based on Artificial Intelligence”PRC Software Copyright Patent，No.2023R11L1294610.**
 - **[10] Ruoying, Huang, Yiqiang,Xia, Xia,Xu, Haonan,Wang,Mingjia,Zhao,“Motion detection
