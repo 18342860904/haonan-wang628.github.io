@@ -28,7 +28,7 @@ Mathematics,**.\
 
 ## China software development copyright
 - **[1] Haonan, Wang, Mingjia, Zhao, Chang, Liu “Artificial intelligence robot programming
-interactive control system,” PRC Software Copyright Patent, No. 2022SR1053901.** <a href="../files/人工智能机器人编程交互控制系统.pdf" class="uline">Click here for a full pdfof this system </a>
+interactive control system,” PRC Software Copyright Patent, No. 2022SR1053901.** <a href="../files/人工智能机器人编程交互控制系统.pdf" class="uline">Click here for a full pdf of this system </a>
 - **[2] Haonan, Wang, Junfeng, Sun, Xin, Yu “Image recognition processing operation
 platform,” PRC Software Copyright Patent, No. 2022SR1052419.**
 - **[3] Haonan, Wang, Chang, Liu, Mingjia, Zhao, “Artificial Intelligence Community Security
