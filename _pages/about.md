@@ -18,8 +18,6 @@ redirect_from:
 
 
 
-Thanks for watching my personal website, welcome to Visit!
-======
 Current Research
 ======
 My Research interest is in Multimodal models and Natural Language Processing， and their applications to Computational Medicine and Computational Sociology. I've been exploring how to accurately integrate text data with other data patterns (such as images, sounds, etc.) to build predictive models that are both robust and accurate.
