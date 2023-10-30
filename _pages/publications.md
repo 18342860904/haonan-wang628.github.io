@@ -19,11 +19,9 @@ Journal of Network Computing and Applications ,Volume 6,Issue 1,April 2021
  Ruiyang Wang,**Haonan Wang**,, Junfeng Sun, Mingjia Zhao, Meng Liu.\
 Scientific Journal of Intelligent Systems Research (2664-9640),Volume 4 Issue 6，April 2022 [pdf](http://www.sjisr.org/download/sjisr-4-6-335-340.pdf)
 - **Research on E-commerce Customer Satisfaction Based on Two Type
-Fuzzy Sets**.\
-[pdf](https://pan.baidu.com/disk/pdfview?path=%2Fwww.paper.edu.cn%2FResearch%20on%20Ecommerce%20Customer%20Satisfaction%20Based%20on%20Two%20Type%20Fuzzy%20Sets.pdf&fsid=318302379438915&size=451188)
+Fuzzy Sets**. <a href="../files/3.人工智能机器人编程交互控制系统.pdf" class="uline">pdf</a>
 - **Research on triangle pattern recognition based on Fuzzy
-Mathematics,**.\
-[pdf](https://pan.baidu.com/disk/pdfview?path=%2Fwww.paper.edu.cn%2FResearch%20on%20triangle%20pattern%20recognition%20based%20on%20Fuzzy%20Mathematics.pdf&fsid=788031712311982&size=412945)
+Mathematics,**.<a href="../files/3.人工智能机器人编程交互控制系统.pdf" class="uline">pdf</a>
 
 
 ## China software development copyright
