@@ -20,13 +20,13 @@ Journal of Network Computing and Applications ,Volume 6,Issue 1,April 2021
 Scientific Journal of Intelligent Systems Research (2664-9640),Volume 4 Issue 6，April 2022 [pdf](http://www.sjisr.org/download/sjisr-4-6-335-340.pdf)
 - **Research on E-commerce Customer Satisfaction Based on Two Type Fuzzy Sets**.\
 **Haonan Wang**. Mingjia Zhao,Wei Liu,Shuxian Wang,Liupeng Zhang\
-Chinese scientific and technological papers， April 2022
-<a href="../files/2022204-330.pdf" class="uline">pdf</a>
+Chinese scientific and technological papers,April 2022
+<a href="../files/2022204-330.pdf" class="uline">pdf</a>\
 <a href="../files/2022204-330.pdf" class="uline">Publication certificate</a>
 - **Research on triangle pattern recognition based on Fuzzy Mathematics,**.\
 **Haonan Wang**. Haitao Liu, Wei Liu\
-Chinese scientific and technological papers， Nov 2021
-<a href="../files/论文电子版.pdf" class="uline">pdf</a>
+Chinese scientific and technological papers,Nov 2021
+<a href="../files/论文电子版.pdf" class="uline">pdf</a>\
 <a href="../files/2022204-330.pdf" class="uline">Publication certificate</a>
 
 
