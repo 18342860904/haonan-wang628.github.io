@@ -33,6 +33,3 @@ Construction of medical knowledge graph: Combining natural language processing t
 **3. Cross-research between artificial intelligence and sociology:**
  My research in this area focuses on Algorithmic Bias and Fairness: Through an in-depth look at algorithmic decision-making processes, I explore the biases that can arise when algorithms process sociocultural data, and how these biases can be reduced or eliminated through technical means or policy adjustments. The interaction between technology and society: AI not only affects society but society's feedback and demand for it will, in turn, affect the direction of technology development. I explore this interaction and what it means for future technological and social relationships. From city management to public policy-making, I examine how AI can aid or influence these decision-making processes, as well as the potential risks and opportunities.
 
-Past Research Direction
-======
-
