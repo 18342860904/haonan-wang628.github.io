@@ -18,16 +18,16 @@ Journal of Network Computing and Applications ,Volume 6,Issue 1,April 2021
 - **Research on geometric figure classification algorithm based on Deep Learning.**\
  Ruiyang Wang,**Haonan Wang**,, Junfeng Sun, Mingjia Zhao, Meng Liu.\
 Scientific Journal of Intelligent Systems Research (2664-9640),Volume 4 Issue 6，April 2022 [pdf](http://www.sjisr.org/download/sjisr-4-6-335-340.pdf)
-- **Research on E-commerce Customer Satisfaction Based on Two Type
-Fuzzy Sets**.
-Chinese scientific and technological papers， April 2022
+- **Research on E-commerce Customer Satisfaction Based on Two Type Fuzzy Sets**.\
 **Haonan Wang**. Mingjia Zhao,Wei Liu,Shuxian Wang,Liupeng Zhang\
-<a href="../files/2022204-330.pdf" class="uline">pdf</a> <a href="../files/2022204-330.pdf" class="uline">Publication certificate</a>
-- **Research on triangle pattern recognition based on Fuzzy
-Mathematics,**.
-Chinese scientific and technological papers， Nov 2021
+Chinese scientific and technological papers， April 2022
+<a href="../files/2022204-330.pdf" class="uline">pdf</a>
+<a href="../files/2022204-330.pdf" class="uline">Publication certificate</a>
+- **Research on triangle pattern recognition based on Fuzzy Mathematics,**.\
 **Haonan Wang**. Haitao Liu, Wei Liu\
-<a href="../files/论文电子版.pdf" class="uline">pdf</a> <a href="../files/2022204-330.pdf" class="uline">Publication certificate</a>
+Chinese scientific and technological papers， Nov 2021
+<a href="../files/论文电子版.pdf" class="uline">pdf</a>
+<a href="../files/2022204-330.pdf" class="uline">Publication certificate</a>
 
 
 ## China software development copyright
