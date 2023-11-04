@@ -5,24 +5,9 @@ main:
   - title: "Publications"
       url: /publications/
     
-   - title: "CV"
-       url: /cv/
+  - title: "CV"
+      url: /cv/
   
- # - title: "Talks"
-    #url: /talks/    
 
-
-
-  #- title: "Portfolio"
-    #url: /portfolio/
-
-
-  #- title: "Life"
-    #url: /Life/    
-
-        
-  #- title: "Blog Posts"
-   # url: /year-archive/
-    
   
     
